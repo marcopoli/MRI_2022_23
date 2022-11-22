@@ -9,5 +9,7 @@ Descrizione dei package:
 - di.uniba.it.mri2223.lucene.cran: Experiment with Cranfield Dataset
 
 @ resources/
+
  § cran: Cranfield Dataset + Trec_Eval-9.0.7
+ 
  § luke: Luke Graphical Interface 8.11.2
