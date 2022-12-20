@@ -4,5 +4,5 @@ Repository per il corso di Metodi per il Ritrovamento dell'Informazione - Laurea
 Descrizione dei contenuti:
 - ApacheLucene: Slide + Esercizi con Apache Lucene
 - Elasticsearch: Slide + Esercizi su Elasticsearch
-- GensimEmbeddingsClassifiers: Slide +. Esercitazioni sull'uso di Gensim e Sklearn Classifiers
+- GensimEmbeddingsClassifiers: Slide + Esercitazioni sull'uso di Gensim e Sklearn Classifiers
 - ClayRS: Slide + Esercizio sull'uso di ClayRS per la realizzazione di Recommender Systems Content Based
