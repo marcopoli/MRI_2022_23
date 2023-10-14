@@ -6,3 +6,5 @@ Descrizione dei contenuti:
 - Elasticsearch: Slide + Esercizi su Elasticsearch
 - GensimEmbeddingsClassifiers: Slide + Esercitazioni sull'uso di Gensim e Sklearn Classifiers
 - ClayRS: Slide + Esercizio sull'uso di ClayRS per la realizzazione di Recommender Systems Content Based
+
+https://drive.google.com/file/d/1N19NADJyEZW8nAIOloV4w3ivNS9dza4o/view?usp=sharing
